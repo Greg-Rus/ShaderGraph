@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Malbers Animations/Animals Packs/01 Forest Pack/Cougar/_Demo Scene/Cougar
+    _Demo.unity
+  isLoaded: 1
+  isActive: 1
